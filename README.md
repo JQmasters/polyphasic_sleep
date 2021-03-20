@@ -70,7 +70,6 @@ Here is only one example
 -  **Sleep plan**: For each sleep, set a timer of **22 minutes**. This include the time of lying down on bed and get up to switch off the alarm. Put the iPhone near the light switch. Then every time when I turn off the alarms, turn the light on first. Light helps to wake me up.
     - This plan can be brought forward or backward by at maximum 1 hour. This is to accommodate the meetings and seminars. 
     - The blogger Steven said it can be 2 hours at maximum, but I have not tested it. 
-
 - **Meal plan**: I select to make the meals per day for one time. Take **400 g** for each meal after getting up. Only the meal for 6:30am is different. Two roasted whole grain bread, milk with whole grains (including soybeans,  millet, oat and sesame), two boiled eggs, one piece of dietary supplement (vitamins and minerals). Two purposes to this choice. First to make the meal plan diverse. Second, to indicate a starting point of a day for psychological reasons. Otherwise, there will not be an obvious start and end for one day, which making life an endless circle, which is horrible.
     - **Recipe**: 1000 g different kinds of vegetables, 500 g protein (chicken breast and soft tofu), 300 g cooked white rice. Cook the vegetables, chicken breast and tofu in boiling water. Make them a **salad** with salt, soy sauce and olive oil.  Store this in refrigerator and use microwave oven to reheat before each meal.
     - **Temporarily remove vinegar and potatoes. Consider to remove potatoes forever.** 
@@ -83,6 +82,7 @@ Here is only one example
         - After practicing this several times, you can get the right feeling. You will gradually lose the sense to outside sound and heat. Then lose consciousness and fall asleep.
 - Avoid any yoga, physical training or massage 1 hour before sleep. I found that they make me harder to fall asleep. They can remove the tiredness and get me excited again. But I need the tiredness to help me fall asleep quickly. 
 - **Massage** on neck, back, waist, and eyes, when they hurt or are uncomfortable.
+- Happiness is more important than success. Enjoy every day, and every hour. Success will come when it should.
 
 ## Update log
 
