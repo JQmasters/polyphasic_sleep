@@ -45,23 +45,24 @@ Here is only one example
 | 4am   |             |             |             |             |             |             |             |
 | 5am   |             |             |             |             |             |             |             |
 | 6am   | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       |
-| 7am   |             |             |             |             |             |             |             |
-| 8am   |             |             |             |             |             |             |             |
+| 7am   | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  |
+| 8am   | Walk        | Walk        | Walk        | Walk        | Walk        | Walk        | Walk        |
 | 9:30  |             |             | **Meeting** |             |             |             |             |
 | 10am  | Sleep       | Sleep       | **Meeting** | Sleep       | Sleep       | Sleep       | Sleep       |
 | 10:30 |             |             | Sleep       |             |             |             |             |
-| 12pm  |             |             |             |             |             |             |             |
+| 11:30 |             |             |             |             | Sleep       |             |             |
+| 12pm  |             |             |             |             | **Meeting** |             |             |
 | 1pm   |             |             |             |             | **Meeting** |             |             |
-| 2pm   | Sleep       | Sleep       | Sleep       | Sleep       | **Meeting** | Sleep       | Sleep       |
-| 3pm   |             | **Meeting** |             |             | Sleep       |             |             |
+| 2pm   | Sleep       | Sleep       | Sleep       | Sleep       |             | Sleep       | Sleep       |
+| 3pm   |             | **Meeting** |             |             |             |             |             |
 | 4pm   | Fruit       | **Meeting** | **Meeting** | Fruit       | Fruit       | Fruit       | Fruit       |
-| 5pm   |             | Fruit       | Fruit       |             |             |             |             |
-| 6pm   | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       |
+| 5pm   |             | Fruit       | Fruit       |             | Sleep       |             |             |
+| 6pm   | Sleep       | Sleep       | Sleep       | Sleep       |             | Sleep       | Sleep       |
 | 7pm   |             |             |             |             |             |             |             |
 | 8pm   |             |             |             |             |             |             |             |
 | 9pm   |             |             |             |             |             |             |             |
 | 10pm  | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       |
-| 11pm  |             |             |             |             |             |             |             |
+| 11pm  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  |
 | 12pm  |             |             |             |             |             |             |             |
 
 
@@ -70,8 +71,9 @@ Here is only one example
     - This plan can be brought forward or backward by at maximum 1 hour. This is to accommodate the meetings and seminars. 
     - The blogger Steven said it can be 2 hours at maximum, but I have not tested it. 
 
-- **Meal plan**: I select to make the meals per day for one time. Take 360 g for each meal after getting up. Only the meal for 6:30am is different. Two roasted whole grain bread, milk with whole grains (including soybeans,  millet, oat and sesame), two boiled eggs, one piece of dietary supplement (vitamins and minerals). Two purposes to this choice. First to make the meal plan diverse. Second, to indicate a starting point of a day for psychological reasons. Otherwise, there will not be an obvious start and end for one day, which making life an endless circle, which is horrible.
-    - **Recipe**: 1000 g different kinds of vegetables, 500 g protein (chicken breast and soft tofu), 300 g cooked white rice. Cook the vegetables, chicken breast and tofu in boiling water. Make them a **salad** with salt, soy sauce, vinegar and olive oil.  Store this in refrigerator and use microwave oven to reheat before each meal.
+- **Meal plan**: I select to make the meals per day for one time. Take **400 g** for each meal after getting up. Only the meal for 6:30am is different. Two roasted whole grain bread, milk with whole grains (including soybeans,  millet, oat and sesame), two boiled eggs, one piece of dietary supplement (vitamins and minerals). Two purposes to this choice. First to make the meal plan diverse. Second, to indicate a starting point of a day for psychological reasons. Otherwise, there will not be an obvious start and end for one day, which making life an endless circle, which is horrible.
+    - **Recipe**: 1000 g different kinds of vegetables, 500 g protein (chicken breast and soft tofu), 300 g cooked white rice. Cook the vegetables, chicken breast and tofu in boiling water. Make them a **salad** with salt, soy sauce and olive oil.  Store this in refrigerator and use microwave oven to reheat before each meal.
+    - **Temporarily remove vinegar and potatoes. Consider to remove potatoes forever.** 
     - In this meal plan, I ensure the fulfillment of nutritions each day. Try to cut down the amount of saturated fatty acids (which are believed to harm the metabolic health) and the amount of sugar (in order to maintain a flat blood sugar concentration). 
 - **The secret to fall asleep quickly**:
     - Any worries and thoughts can ruin a good sleep. So write them down before sleep, or even make a short plan to deal with it. Try to remove every thought or anxiety from the mind.
@@ -81,3 +83,7 @@ Here is only one example
         - After practicing this several times, you can get the right feeling. You will gradually lose the sense to outside sound and heat. Then lose consciousness and fall asleep.
 - Avoid any yoga, physical training or massage 1 hour before sleep. I found that they make me harder to fall asleep. They can remove the tiredness and get me excited again. But I need the tiredness to help me fall asleep quickly. 
 - **Massage** on neck, back, waist, and eyes, when they hurt or are uncomfortable.
+
+## Update log
+
+- 03/19: Remove vinegar and potatoes from the meal of salad. Consider to remove potatoes forever. Due to `Day 4`. 
