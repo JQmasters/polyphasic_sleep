@@ -22,11 +22,11 @@ Share-ability: **Public**
 
 - Physical data:
 
-- | Heart rate /min | Temperature, ℃ | Weight, Kg |      |
-    | --------------- | -------------- | ---------- | ---- |
-    | 72              | 36.4           | 77.85      |      |
+- | Pulse /min | Temperature, ℃ | Weight, Kg |      |
+  | ---------- | -------------- | ---------- | ---- |
+  | 72         | 36.4           | 77.85      |      |
 
-    Time consumption is not that important. In the future, I will pay less attention to this part. The health (physical, mental and psychological) and happiness matter much more. 
+  Time consumption is not that important. In the future, I will pay less attention to this part. The health (physical, mental and psychological) and happiness matter much more. 
 
 | Date  | Work    | Sleep   | Exercise | Chores  | Reading | Fun     |
 | ----- | ------- | ------- | -------- | ------- | ------- | ------- |

@@ -22,15 +22,15 @@ Share-ability: **Public**
 
 - 
 
-- | Heart rate /min | Temperature, ℃ | Weight, Kg |      |
-    | --------------- | -------------- | ---------- | ---- |
-    | 64              | 36.1           | 76.80      |      |
+- | Pulse /min | Temperature, ℃ | Weight, Kg |      |
+    | ---------- | -------------- | ---------- | ---- |
+    | 64         | 36.1           | 76.80      |      |
 
     Time consumption is not important.
 
 | Date  | Work     | Sleep   | Exercise | Chores  | Reading | Fun  |
 | ----- | -------- | ------- | -------- | ------- | ------- | ---- |
-| 03-20 | 11h31min | 6h37min | 5min     | 4h37min | 10min   | 1h7  |
+| 03-21 | 11h31min | 6h37min | 5min     | 4h37min | 10min   | 1h7  |
 
 ## Log
 
