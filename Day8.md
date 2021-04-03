@@ -35,7 +35,7 @@ Share-ability: **Public**
 - 2:23-2:45am: slept，but felt sleepy after getting up.
 - 2:45-4am: can’t concentrate on mental work. Feel less happy.
 - 4-6am: entertainment (watching videos), I can only concentrate on this.
-- 6-11am: sleep, feel dizzy, and bad. Good news is no stomachache any more. Had crazy and tiring dreams, feel neck-ache, and regret to sleep so long.
+- **6-11am**: sleep, feel dizzy, and bad. Good news is no stomachache any more. Had crazy and tiring dreams, feel neck-ache, and regret to sleep so long.
     - Reading. But not the classic literature, although I intended to do. It seems that I reject the classic literature because they are less “useful”. Maybe consider reading scientific literatures as a switch from work and python?
 - 11:48am: Feel better, but still not the peak. 48 minutes are not enough. So longer sleep tends to have low efficient in the recovering of physical status. Maybe longer sleep is more important to the mental and psychological health.
     - Hard to concentrate, and easily lose control on my thoughts.

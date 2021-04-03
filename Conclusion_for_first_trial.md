@@ -1,6 +1,6 @@
 # My Experiences with Polyphasic Sleep
 
-Date: 2021-04-03
+Date: 2021-03-15
 
 Author: Jianzhou Qu
 
@@ -12,11 +12,11 @@ Share-ability: **Public**
 
 ## Introduction
 
-The first plan for polyphasic sleep is to sleep **22 minutes every 4 hours (22min/4h)**. The first trial failed. The reason for failure could be that I need to strictly stick to the sleep mode no matter how tired I am. But I didn’t, because I have work to finish during that time and must have enough sleep to make them done. With the sleep mode 22min/4h, I can’t focus and think when feeling tired. 
+First, what is **polyphasic sleep**. Polyphasic sleep means to divide the whole sleep to several parts and arrange them within 24 hours. There are several modes. Here I select to sleep **22 minutes every 4 hours**. This means, I will sleep six times and 2.2 hours in total per 24 hours.
 
-Now I am trying a new sleep mode, still polyphasic. At night, sleep 4.5 hours (from 2am to 6:30am, for example), then sleep another four 22-minute when tired. Currently, it could be 11am, 2pm, 6pm, 10pm. I need to try this out and finally conclude with a relatively fixed time schedule. 
+Second, why do I choose this. It has been said that Leonardo da Vinci slept 20 minutes every 4 hours in his life. I have been curious about this sleep pattern when I was young. Recently due to COVID-19, I am working from home, which makes the polyphasic sleep pattern possible. Besides, [Steven Pavlina](https://stevepavlina.com/blog/2005/10/polyphasic-sleep/) published his blogs about the same sleep pattern in 2005. He followed this by several months without health and mental problems. The last reason is that I always feel anxious about the low efficiency of time management. Previously, I sleep 7-8 hours per day, with 4 - 5 hours for cooking and house keeping, and 2-3 hours for entertainment. So I only can work 7-8 hours per day. In a word, now is the best time to try this sleep pattern out.
 
-The advantage of a fixed time schedule is that I can arrange my life much better and easier, as I know when I can work efficiently, and when I can’t. Besides, my body can follow a routine of circadian clock. I assume that this will make me feel better. Last but not the least, to maintain a fixed time schedule is a good exercise for better self-management and self-control. 
+Last, what is this note for? This note is to record my experiences in detail. In this README file, I intend to summarize a “best plan” for me when performing polyphasic sleep mode. I hope this plan could also be useful to others, although it is definitely filled in with my personal habits.
 
 ## Prerequisites
 
@@ -37,27 +37,33 @@ Here is only one example
 
 ## Time schedule (keep updating)
 
-|                 | Mon   | Tue         | Wed         | Thu   | Fri         | Sat   | Sun   |
-| --------------- | ----- | ----------- | ----------- | ----- | ----------- | ----- | ----- |
-| 1am             |       |             |             |       |             |       |       |
-| 2am-6:30am      | Sleep | Sleep       | Sleep       | Sleep | Sleep       | Sleep | Sleep |
-| 7am             |       |             |             |       |             |       |       |
-| 8am             | Walk  | Walk        | Walk        | Walk  | Walk        | Walk  | Walk  |
-| 9:30 am-10:30am |       |             | **Meeting** |       |             |       |       |
-| 11am            | Sleep | Sleep       | Sleep       | Sleep | Sleep       | Sleep | Sleep |
-| 12pm            |       |             |             |       | **Meeting** |       |       |
-| 1pm             |       |             |             |       | **Meeting** |       |       |
-| 2pm             | Sleep | Sleep       | Sleep       | Sleep | sleep       | Sleep | Sleep |
-| 3pm             |       | **Meeting** |             |       |             |       |       |
-| 4pm             |       | **Meeting** | **Meeting** |       |             |       |       |
-| 5pm             |       |             |             |       |             |       |       |
-| 6pm             | Sleep | Sleep       | Sleep       | Sleep | Sleep       | Sleep | Sleep |
-| 7pm             |       |             |             |       |             |       |       |
-| 8pm             |       |             |             |       |             |       |       |
-| 9pm             |       |             |             |       |             |       |       |
-| 10pm            | Sleep | Sleep       | Sleep       | Sleep | Sleep       | Sleep | Sleep |
-| 11pm            |       |             |             |       |             |       |       |
-| 12pm            |       |             |             |       |             |       |       |
+|       | Mon         | Tue         | Wed         | Thu         | Fri         | Sat         | Sun         |
+| ----- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1am   | Sum         | Sum         | Sum         | Sum         | Sum         | Sum         | Sum         |
+| 2am   | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       |
+| 3am   | Yoga (Back) | Yoga (Back) | Yoga (Back) | Yoga (Back) | Yoga (Back) | Yoga (Back) | Yoga (Back) |
+| 4am   |             |             |             |             |             |             |             |
+| 5am   |             |             |             |             |             |             |             |
+| 6am   | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       |
+| 7am   | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  |
+| 8am   | Walk        | Walk        | Walk        | Walk        | Walk        | Walk        | Walk        |
+| 9:30  |             |             | **Meeting** |             |             |             |             |
+| 10am  | Sleep       | Sleep       | **Meeting** | Sleep       | Sleep       | Sleep       | Sleep       |
+| 10:30 |             |             | Sleep       |             |             |             |             |
+| 11:30 |             |             |             |             | Sleep       |             |             |
+| 12pm  |             |             |             |             | **Meeting** |             |             |
+| 1pm   |             |             |             |             | **Meeting** |             |             |
+| 2pm   | Sleep       | Sleep       | Sleep       | Sleep       |             | Sleep       | Sleep       |
+| 3pm   |             | **Meeting** |             |             |             |             |             |
+| 4pm   | Fruit       | **Meeting** | **Meeting** | Fruit       | Fruit       | Fruit       | Fruit       |
+| 5pm   |             | Fruit       | Fruit       |             | Sleep       |             |             |
+| 6pm   | Sleep       | Sleep       | Sleep       | Sleep       |             | Sleep       | Sleep       |
+| 7pm   |             |             |             |             |             |             |             |
+| 8pm   |             |             |             |             |             |             |             |
+| 9pm   |             |             |             |             |             |             |             |
+| 10pm  | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       | Sleep       |
+| 11pm  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  | Teeth Face  |
+| 12pm  |             |             |             |             |             |             |             |
 
 
 
@@ -82,4 +88,4 @@ Here is only one example
 
 - 03/19: Remove vinegar and potatoes from the meal of salad. Consider to remove potatoes forever. Due to `Day 4`. 
 - 03/21: Change the meal plan to be freshly prepared instead of reheated refrigerated food.
-- 04/03: Change to a new sleep mode 4.5h at nigh with another four 22-min sleeps.
+- 03/24: Decide to abandon 22min/4h sleep mode. Take a new one: 4.5h (2am-6:30am), and four 22-min(10am, 2pm, 6pm, 10pm).
